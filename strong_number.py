@@ -1,4 +1,4 @@
-#To check strong number
+#Python program to check whether a number is strong number or not
 s=input("enter a no.")
 n=0
 for i in s:
